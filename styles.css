@@ -1,0 +1,25 @@
+h1{ 
+    font-family: Lobster Two ;
+    color: #336600   ;
+}
+h2 { 
+    font-family: Lobster Two ;
+    color: #000080 ;
+}
+p { 
+    font-family: Sansita Swashed ;
+    color: #134d00;
+}
+li {
+    font-family:Sansita Swashed ;
+    color: #000080 ;
+}
+
+img{
+    width: 200px ;
+    height: 200px ;
+    border: ridge ;
+    border-color: Crimson ;
+}
+body {background-color: #cc9900;}
+
